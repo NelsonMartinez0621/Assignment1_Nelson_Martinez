@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="access_request">Please grant access to your Contacts</string>
+    <string name="access_granted">Grant Access</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
